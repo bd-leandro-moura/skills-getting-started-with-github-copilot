@@ -74,6 +74,12 @@ section h3 {
   margin-bottom: 8px;
 }
 
+/* Add padding to the participants list for better alignment */
+.participants-list {
+  padding-left: 20px;
+  margin-bottom: 8px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
